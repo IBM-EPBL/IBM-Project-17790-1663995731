@@ -1,15 +1,15 @@
 # IBM-Project-17790-1663995731
-Early Detection of Chronic Kidney Disease using Machine Learning
+## Early Detection of Chronic Kidney Disease using Machine Learning
 
-Team Details:
+## Team Details:
 1. Jayasurya J - Team Leader
 2. Kanimolzhi S - Team Member 1
 3. Janasruthi S U - Team Member 2
 4. Sreerenusankar V - Team Member 3
 
-PROJECT DESCRIPTION: 
+#PROJECT DESCRIPTION: 
 
-# Chrnoic Kidney Disease Prediction - Using Machine Learning
+## Chrnoic Kidney Disease Prediction - Using Machine Learning
 
 Chronic Kidney Disease (CKD) or chronic renal disease has become a major issue with a steady growth rate. A person can only survive without kidneys for an average time of 18 days, which makes a huge demand for a kidney transplant and Dialysis. It is important to have effective methods for early prediction of CKD. Machine learning methods are effective in CKD prediction. This work proposes a workflow to predict CKD status based on clinical data, incorporating data prepossessing, a missing value handling method with collaborative filtering and attributes selection. Out of the 11 machine learning methods considered, the extra tree classifier and random forest classifier are shown to result in the highest accuracy and minimal bias to the attributes. The research also considers the practical aspects of data collection and highlights the importance of incorporating domain knowledge when using machine learning for CKD status prediction.
 
