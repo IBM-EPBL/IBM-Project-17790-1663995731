@@ -7,7 +7,7 @@
 3. Janasruthi S U - Team Member 2
 4. Sreerenusankar V - Team Member 3
 
-## PROJECT DESCRIPTION: 
+## Project Description: 
 
 ## Chrnoic Kidney Disease Prediction - Using Machine Learning
 
