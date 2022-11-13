@@ -1,8 +1,8 @@
-                                            EARLY DETECTION OF CHRONIC KIDNEY DIESEASE USING MACHINE LEARNING     
+                                  EARLY DETECTION OF CHRONIC KIDNEY DIESEASE USING MACHINE LEARNING     
 
-                                                            IBM-PROJECT-17790-1663995731
-                                                            TEAM-ID: PNT2022TMID01511
-                                                            PROJECT NAME: "EARLY DETECTION OF CHRONIC KIDNEY DISEASE USING MACHINE LEARNING
+                                             IBM-PROJECT-17790-1663995731
+                                             TEAM-ID: PNT2022TMID01511
+                                             PROJECT NAME: "EARLY DETECTION OF CHRONIC KIDNEY DISEASE USING MACHINE LEARNING
 
 
 
